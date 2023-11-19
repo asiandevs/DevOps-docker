@@ -69,3 +69,9 @@ iv. Verify that Docker images are removed:
    ```
    docker images
    ```
+# Containers and Shells
+```
+docker run -it centos /bin/bash
+ls
+exit
+```
