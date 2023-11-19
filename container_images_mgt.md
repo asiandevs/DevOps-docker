@@ -1,6 +1,9 @@
 ----------------------------------
 # Managing Container Images
 ----------------------------------
+
+![image](https://github.com/asiandevs/images/blob/2c86fad2b67f154455e2534a81fd79dbdaff47e6/docker_image.jpg)
+
 1. **Login as "root" user on docker host:**
 
    ```bash
@@ -61,7 +64,7 @@
 10. **Create a new image from the container on which we made changes by running "docker commit" command.**
 
     ```bash
-    docker commit -m "Added mariadb-server and git" -a "OneCloud" mm_fedora mm_fedora_image:ver1
+    docker commit -m "Added mariadb-server and git" -a "mmfedora" mm_fedora mm_fedora_image:ver1
     ```
 
     Here we used the `docker commit` command. We specified two flags: `-m` and `-a`.
