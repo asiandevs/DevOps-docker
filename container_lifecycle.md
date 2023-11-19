@@ -1,5 +1,6 @@
 # Managing the Life Cycle of Container
 
+  ![image](https://github.com/asiandevs/images/blob/8ac089bb7e937725f7b85f7a27cf916e5a9c300b/ContainerLifecyle.jpg)
 1. **Login as “root” user on docker host:**
    ```bash
    ssh root@<hostIP>
