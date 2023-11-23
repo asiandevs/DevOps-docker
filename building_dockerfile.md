@@ -1,4 +1,4 @@
-## Lab 5 – Building a DockerFile
+## Building a DockerFile
 
 **Building Image from a Dockerfile:**
 
