@@ -27,7 +27,6 @@
    ```
    The docker run command must specify an IMAGE to derive the container from.
    ```bash
-   docker run --name centos02 ubuntu
    docker run --name centos03 -dit ubuntu
    docker ps -a
    ```
