@@ -2,7 +2,7 @@
 
 1. Install the Docker package
    ```
-   yum install docker-engine -y
+   yum install docker -y
    ```
    Once Docker is installed, you will need to start the Docker daemon.
 
